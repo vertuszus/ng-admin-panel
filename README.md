@@ -1,5 +1,14 @@
 # NgAdminPanel
 
+Cтраница входа с валидацией и админ-панель (с асинхронной подгрузкой списка пользователей / сотрудников ) на фреймворке Angular. Стек - rxjs, routing, guards, services, resolvers, валидация форм.
+
+![image](https://user-images.githubusercontent.com/72495167/164752174-6927a9e5-f906-40af-bc73-c30c1e1dfe0c.png)
+
+![image](https://user-images.githubusercontent.com/72495167/164752233-7357cc04-d02b-457d-acda-07f3b3bb2015.png)
+
+![image](https://user-images.githubusercontent.com/72495167/164752269-0f59d77f-46ff-4c58-896f-d1f833cfb4fd.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Development server
