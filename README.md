@@ -2,7 +2,7 @@
 
 Cтраница входа с валидацией и админ-панель (с асинхронной подгрузкой списка пользователей / сотрудников ) на фреймворке Angular
 
-Стек - RxJs, Routing, Guards, Services, Resolvers, Validators
+RxJs, Routing, Guards, Resolvers, Validators
 
 ![image](https://user-images.githubusercontent.com/72495167/164752174-6927a9e5-f906-40af-bc73-c30c1e1dfe0c.png)
 
